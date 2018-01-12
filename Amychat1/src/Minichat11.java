@@ -6,7 +6,7 @@ public class Minichat11 {
 			System.out.println("Hello alya lol");
 			System.out.println("Hello amy hhlhhhhhojjl");
 			
-			
+			System.out.println("Hello groupe");
 	}
 
 }
